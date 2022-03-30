@@ -71,7 +71,7 @@ By default, the Hybrid Configuration wizard automatically enables all hybrid dep
 
 - **Online archiving**: Exchange Online host user email archive for both on-premises and cloud users. For more information, see [Configure Exchange Online Archiving](/microsoft-365/compliance/enable-archive-mailboxes).
 
-- **Outlook on the web redirection**: Provides one URL to access both on-premises and Exchange Online mailboxes via Outloo on the web (formerly known as Outlook Web App or OWA). Client Access servers automatically redirect requests to on-premises mailbox servers or provide the link to Exchange Online mailboxes.
+- **Outlook on the web redirection**: Provides one URL to access both on-premises and Exchange Online mailboxes via Outlook on the web (formerly known as Outlook Web App or OWA). Client Access servers automatically redirect requests to on-premises mailbox servers or provide the link to Exchange Online mailboxes.
 
 - **Exchange ActiveSync redirection**: Most Exchange ActiveSync clients will now be automatically reconfigured when the mailbox is moved to Exchange Online. For more information, see [Exchange ActiveSync device settings with Exchange hybrid deployments](activesync-settings.md).
 
